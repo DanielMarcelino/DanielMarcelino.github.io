@@ -1,8 +1,0 @@
-@font-face {
-  font-family: myFirstFont;
-  src: url(sansation_bold.woff);
-  font-weight: bold;
-}
-
-
-----------inserir fonte
