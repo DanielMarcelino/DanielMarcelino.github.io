@@ -98,11 +98,11 @@ body {
 	
 }
 .face {
-	background: url("face2.png") no-repeat;
+	background: url("facebook2.png") no-repeat;
 	
 }
 .face:hover {
-	background: url("face.png") no-repeat;
+	background: url("facebook.png") no-repeat;
 
 }
 .insta:hover {
