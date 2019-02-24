@@ -173,6 +173,17 @@ body {
 	display:block;
 	font-size:12px;
 }
+.postagem_conteudo_home_img {
+	width:430px;
+	border:1px solid #000;
+	border-bottom:3px solid #000;
+}
+.postagem_conteudo_pagina_img {
+	width:700px;
+	border:1px solid #000;
+	border-bottom:3px solid:
+}
+
 .postagem_conteudo p {
 	font-size:14px;
 	line-height:20px;
